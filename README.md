@@ -1,2 +1,2 @@
-# trial_and_error
-# trial_and_error
+# trial and error
+learning git by breaking things
